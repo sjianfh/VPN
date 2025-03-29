@@ -1,12 +1,12 @@
 proxies:
-  - name: "中转节点-HK"
+  - name: "VN-TikTok-Professional office"
     type: ss
     server: tunnel-07312159.666888.biz
     port: 28564
     cipher: aes-128-gcm
     password: Tg1212121@
     udp: true
-  - name: "VN-TikTok-Professional office"
+  - name: "中转节点-HK"
     type: ss
     server: tunnel-07312159.666888.biz 
     port: 14369
